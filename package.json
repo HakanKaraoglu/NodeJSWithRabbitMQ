@@ -1,0 +1,17 @@
+{
+  "name": "NodeJSWithRabbitMQ",
+  "version": "1.0.0",
+  "description": "RabbitMQ sample application with NodeJS",
+  "main": "services.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hakan KARAOGLU",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.2",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "underscore": "^1.8.3"
+  }
+}
